@@ -1,0 +1,20 @@
+h1{
+    color:orange
+
+}    
+
+form legend {
+    color:orange;
+    font-size:large;
+
+}
+
+form fieldset {
+    color:black;
+    border: 4px solid green;
+  
+}
+
+html{
+    background-color:bisque;
+}
